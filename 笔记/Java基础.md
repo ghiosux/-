@@ -68,4 +68,16 @@
 
 35. 初始化器和构造器的区别
 
+36. Integer.valueOf()
+
+37. StringBuilder
+
+38. Arrays.sort();
+
+39. stringbuilder.append();
+
+40. 使用对象时需进行不为null的判断
+
+41. 运算异常
+
      

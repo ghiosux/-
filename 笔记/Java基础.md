@@ -80,4 +80,24 @@
 
 41. 运算异常
 
+42. List 使用Iterator添加修改元素会引发并发修改异常 ConcurrentModificationException
+
+43. List使用ListIterator 添加修改元素不会引发并发修改异常
+
+44. 栈和队列
+
+45. 哈希值
+
+46. HashSet 存储数据的方式
+
+47. TreeSet集合 可对存储的元素自动进行排序
+
+48. Comparator 比较器的使用
+
+49. Calendar类创建对象的方式比较特殊：Calendar cal = Calendar getInstance();
+
+50. 字符流与字节流
+
+51. 
+
      
